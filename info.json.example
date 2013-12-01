@@ -1,0 +1,4 @@
+{
+    "API_KEY" : "your api key from tumblr",
+    "BASE_HOSTNAME" : "base hostname you want to query"
+}
